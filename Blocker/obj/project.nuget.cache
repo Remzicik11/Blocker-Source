@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LkCBht78gS5iXhkI1LAMULFFG7BfkMKXdW8qJzvCTqEJMIcHXQTIHPfrvWX7hvM5YBSzI6m0VbPAZA0Sv9EIIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RamizKöfte\\source\\repos\\Blocker\\Blocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RamizKöfte\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\RamizKöfte\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
